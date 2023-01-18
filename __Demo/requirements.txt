@@ -1,0 +1,6 @@
+gunicorn
+torch
+sentencepiece
+tensorflow
+transformers
+speechrecognition
